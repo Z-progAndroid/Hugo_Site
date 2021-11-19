@@ -8,10 +8,10 @@ date:
 ## PARTIES INVOLVED
 
 ### Server Side
-> ** Server-side programming ** is a processing of a user's request by interpreting a script on the web server to dynamically generate HTML pages as a response.
+> **Server-side programming** is a processing of a user's request by interpreting a script on the web server to dynamically generate HTML pages as a response.
 ---
 ### Client Side
-> ** Client-side programming ** is the way that web pages manage events, make requests to the server and make simple validations and it is integrated into the HTML code
+> **Client-side programming** is the way that web pages manage events, make requests to the server and make simple validations and it is integrated into the HTML code
 ---
 ### Ajax Request
 > It is not a programming language but a tool to communicate the client side with the server side.
@@ -23,7 +23,7 @@ date:
 > And the client side keeps responding to events until the request information arrives.
 ---
 ### HTML
-> ** HTML ** is the foundation of the web. If you want to build a page using the html tags, the body of the web page is created and then using the language on the client and server sides you fill in that structure
+> **HTML** is the foundation of the web. If you want to build a page using the html tags, the body of the web page is created and then using the language on the client and server sides you fill in that structure
 
 # Summary of the charging process
 ## GRAPHIC
