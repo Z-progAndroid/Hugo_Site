@@ -1,8 +1,8 @@
 ---
 title: Definiciones
-date: 11-12-2021
+date:
 ---
-# APARTADO 2
+
 ## Babel WebPack Prototype Polyfill
 {{<youtube V4eHayIIq9s>}}
 >**Prototype** es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinámico de aplicaciones web.

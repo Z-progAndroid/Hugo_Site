@@ -3,6 +3,25 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-learn"
 
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "red"
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+# English is the default language
+defaultContentLanguage = "en"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir= true
+
+[Languages]
+[Languages.en]
+title = "My New Hugo Site"
+weight = 1
+languageName = "English"
+
+[Languages.es]
+title = "My New Hugo Site es"
+weight = 2
+languageName = "Español"

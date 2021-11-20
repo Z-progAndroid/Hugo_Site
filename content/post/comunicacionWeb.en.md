@@ -1,12 +1,7 @@
 ---
-title: COMUNICACION CLIENTE SERVIDOR
-date: 
+title: COMMUNICATION CLIENT SERVER
 ---
-# PARAGRAPH 1
-# COMMUNICATION CLIENT SERVER
-
-## PARTIES INVOLVED
-
+## PARTIES INVOLVED 
 ### Server Side
 > **Server-side programming** is a processing of a user's request by interpreting a script on the web server to dynamically generate HTML pages as a response.
 ---
@@ -25,9 +20,9 @@ date:
 ### HTML
 > **HTML** is the foundation of the web. If you want to build a page using the html tags, the body of the web page is created and then using the language on the client and server sides you fill in that structure
 
-# Summary of the charging process
+# Summary of the charging process 
 ## GRAPHIC
-! [GRAPHIC] (http://3.bp.blogspot.com/-tcRImpq0phs/Vm8L2Z_HacI/AAAAAAAAExs/sAsD77cbIB4/s1600/ajax_process.gif)
+! [GRAPHIC](http://3.bp.blogspot.com/-tcRImpq0phs/Vm8L2Z_HacI/AAAAAAAAExs/sAsD77cbIB4/s1600/ajax_process.gif)
 
 > 1. The request is sent to the server. He receives it and begins the process of building the web page. If there is PHP code, it is executed at this moment, all the queries are made to the Database. The result is a page with HTML and maybe JavaScript.
 >
