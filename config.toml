@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://z-progandroid.github.io/Hugo_Site/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Portafilo"
 theme = "hugo-theme-learn"
 
 [params]
