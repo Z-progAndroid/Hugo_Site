@@ -1,5 +1,6 @@
 ---
 title: COMMUNICATION CLIENT SERVER
+url: /post/comunicacionweb/
 ---
 ## PARTIES INVOLVED 
 ### Server Side

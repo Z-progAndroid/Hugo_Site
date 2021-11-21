@@ -1,5 +1,6 @@
 ---
 title: "posts"
+url: /post/
 ---
 # postpone the deadline
 

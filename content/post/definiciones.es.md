@@ -1,6 +1,6 @@
 ---
 title: Definiciones
-date:
+url: /post/definiciones/
 ---
 
 ## Babel WebPack Prototype Polyfill

@@ -1,6 +1,7 @@
 ---
 title: COMUNICACION CLIENTE SERVIDOR
 date: 
+url: post/comunicacionweb/
 ---
 
 ## PARTES QUE INTERVIENEN
