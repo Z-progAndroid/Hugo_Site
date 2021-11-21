@@ -15,5 +15,5 @@
 > toda la pagina esta traducida
 ## Plantillas
 ## Datos externos
-> se pude encoentr en el apartado de posts 
+> se pude encoentrar en el apartado de posts 
 
