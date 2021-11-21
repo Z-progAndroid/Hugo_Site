@@ -45,7 +45,7 @@
   </url>
   
   <url>
-    <loc>https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/definiciones/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,12 +54,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/definiciones/"
                 />
   </url>
   
   <url>
-    <loc>https://z-progandroid.github.io/Hugo_Site/es/post/data/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/data/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,12 +68,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://z-progandroid.github.io/Hugo_Site/es/post/data/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/data/"
                 />
   </url>
   
   <url>
-    <loc>https://z-progandroid.github.io/Hugo_Site/es/post/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -82,7 +82,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://z-progandroid.github.io/Hugo_Site/es/post/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/"
                 />
   </url>
   

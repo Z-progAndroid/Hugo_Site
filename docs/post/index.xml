@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>posts on My New Hugo Site</title>
+    <title>posts on My New Hugo Site es</title>
     <link>https://z-progandroid.github.io/Hugo_Site/post/</link>
-    <description>Recent content in posts on My New Hugo Site</description>
+    <description>Recent content in posts on My New Hugo Site es</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://z-progandroid.github.io/Hugo_Site/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Avengers Data</title>
-      <link>https://z-progandroid.github.io/Hugo_Site/post/data/</link>
+      <title>COMUNICACION CLIENTE SERVIDOR</title>
+      <link>https://z-progandroid.github.io/Hugo_Site/es/post/comunicacionweb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://z-progandroid.github.io/Hugo_Site/post/data/</guid>
-      <description>Iron Man
-Descripcion Altura 6 feet, 1 inch Peso 225 pounds Weaknesses   Ego  Heart Issues  Strength   Intellect  Technopathy  Super Human Reflexes  Thor
-Descripcion Altura 6 feet, 6 inches Peso 640 pounds Weaknesses   Short Tempered  Emotional  Strength   God of Thunder  Invulnerability  Captain America
-Descripcion Altura 6 feet, 2 inches Peso 220 pounds Weaknesses   His Past  Emotions  Strength   Reflexes  Slowed Ageing  Super Healing  Hulk</description>
-    </item>
-    
-    <item>
-      <title>COMMUNICATION CLIENT SERVER</title>
-      <link>https://z-progandroid.github.io/Hugo_Site/post/comunicacionweb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://z-progandroid.github.io/Hugo_Site/post/comunicacionweb/</guid>
-      <description>PARTIES INVOLVED Server Side  Server-side programming is a processing of a user&amp;rsquo;s request by interpreting a script on the web server to dynamically generate HTML pages as a response.
-  Client Side  Client-side programming is the way that web pages manage events, make requests to the server and make simple validations and it is integrated into the HTML code
-  Ajax Request  It is not a programming language but a tool to communicate the client side with the server side.</description>
+      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/comunicacionweb/</guid>
+      <description>PARTES QUE INTERVIENEN Lado del Servidor  La programación del lado del servidor es un procesamiento de una petición de un usuario mediante la interpretación de un script en el servidor web para generar dinámicamente páginas HTML como respuesta.
+  Lado del Cliente  La programación del lado del cliente es la manera que tienen las paginas web de gestinar eventos relizar peticiones al servidor y hacer validaciones simples y se integra en el codigo HTML</description>
     </item>
     
     <item>
@@ -35,10 +22,22 @@ Descripcion Altura 6 feet, 2 inches Peso 220 pounds Weaknesses   His Past  Emoti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://z-progandroid.github.io/Hugo_Site/post/definiciones/</guid>
-      <description>Babel WebPack Prototype Polyfill    Prototype is a framework written in JavaScript that is oriented to the simple and dynamic development of web applications.
-webpack is an open source JavaScript module package, used to generate static files representing those modules
-Babel and Polyfill are tools that help to modernize our code
- PHP Frameworks from php    PHP is a programming language designed to develop applications for the web and create web pages, favoring the connection between servers and the user interface.</description>
+      <description>Babel WebPack Prototype Polyfill    Prototype es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinámico de aplicaciones web.
+webpack es un paquete de módulos de JavaScript de código abierto,usado para generar archivos estáticos que representan esos módulos
+Babel y Polyfill son herramientas que ayuadn a modernizar nuestro codigo
+ PHP Frameworks de php    PHP es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario.</description>
+    </item>
+    
+    <item>
+      <title>Info Avengers</title>
+      <link>https://z-progandroid.github.io/Hugo_Site/post/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://z-progandroid.github.io/Hugo_Site/post/data/</guid>
+      <description>Iron Man
+Descripcion Altura 6 feet, 1 inch Peso 225 pounds Debilidades   Ego  Heart Issues  Fortalezas   Intellect  Technopathy  Super Human Reflexes  Thor
+Descripcion Altura 6 feet, 6 inches Peso 640 pounds Debilidades   Short Tempered  Emotional  Fortalezas   God of Thunder  Invulnerability  Captain America
+Descripcion Altura 6 feet, 2 inches Peso 220 pounds Debilidades   His Past  Emotions  Fortalezas   Reflexes  Slowed Ageing  Super Healing  Hulk</description>
     </item>
     
   </channel>

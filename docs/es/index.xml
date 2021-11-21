@@ -18,10 +18,10 @@
     
     <item>
       <title>Definiciones</title>
-      <link>https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/</link>
+      <link>https://z-progandroid.github.io/Hugo_Site/post/definiciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/</guid>
+      <guid>https://z-progandroid.github.io/Hugo_Site/post/definiciones/</guid>
       <description>Babel WebPack Prototype Polyfill    Prototype es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinámico de aplicaciones web.
 webpack es un paquete de módulos de JavaScript de código abierto,usado para generar archivos estáticos que representan esos módulos
 Babel y Polyfill son herramientas que ayuadn a modernizar nuestro codigo
@@ -30,10 +30,10 @@ Babel y Polyfill son herramientas que ayuadn a modernizar nuestro codigo
     
     <item>
       <title>Info Avengers</title>
-      <link>https://z-progandroid.github.io/Hugo_Site/es/post/data/</link>
+      <link>https://z-progandroid.github.io/Hugo_Site/post/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/data/</guid>
+      <guid>https://z-progandroid.github.io/Hugo_Site/post/data/</guid>
       <description>Iron Man
 Descripcion Altura 6 feet, 1 inch Peso 225 pounds Debilidades   Ego  Heart Issues  Fortalezas   Intellect  Technopathy  Super Human Reflexes  Thor
 Descripcion Altura 6 feet, 6 inches Peso 640 pounds Debilidades   Short Tempered  Emotional  Fortalezas   God of Thunder  Invulnerability  Captain America

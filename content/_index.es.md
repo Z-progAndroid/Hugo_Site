@@ -1,6 +1,6 @@
 ---
 title: ""
-url: https://z-progandroid.github.io/Hugo_Site/
+url: 
 ---
 # Bienvenido a mi pagina
 
