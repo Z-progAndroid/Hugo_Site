@@ -5,7 +5,7 @@ theme = "hugo-theme-learn"
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "purple"
   disableLandingPage="flase"
 # For search functionality
 [outputs]
