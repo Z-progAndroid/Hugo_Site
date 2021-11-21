@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site es</title>
-    <link>http://example.org/es/</link>
+    <link>https://z-progandroid.github.io/Hugo_Site/es/</link>
     <description>Recent content on My New Hugo Site es</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://z-progandroid.github.io/Hugo_Site/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMUNICACION CLIENTE SERVIDOR</title>
-      <link>http://example.org/es/post/comunicacionweb/</link>
+      <link>https://z-progandroid.github.io/Hugo_Site/es/post/comunicacionweb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/post/comunicacionweb/</guid>
+      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/comunicacionweb/</guid>
       <description>PARTES QUE INTERVIENEN Lado del Servidor  La programación del lado del servidor es un procesamiento de una petición de un usuario mediante la interpretación de un script en el servidor web para generar dinámicamente páginas HTML como respuesta.
   Lado del Cliente  La programación del lado del cliente es la manera que tienen las paginas web de gestinar eventos relizar peticiones al servidor y hacer validaciones simples y se integra en el codigo HTML</description>
     </item>
     
     <item>
       <title>Definiciones</title>
-      <link>http://example.org/es/post/definiciones/</link>
+      <link>https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/post/definiciones/</guid>
+      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/</guid>
       <description>Babel WebPack Prototype Polyfill    Prototype es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinámico de aplicaciones web.
 webpack es un paquete de módulos de JavaScript de código abierto,usado para generar archivos estáticos que representan esos módulos
 Babel y Polyfill son herramientas que ayuadn a modernizar nuestro codigo
@@ -30,10 +30,10 @@ Babel y Polyfill son herramientas que ayuadn a modernizar nuestro codigo
     
     <item>
       <title>Info Avengers</title>
-      <link>http://example.org/es/post/data/</link>
+      <link>https://z-progandroid.github.io/Hugo_Site/es/post/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/post/data/</guid>
+      <guid>https://z-progandroid.github.io/Hugo_Site/es/post/data/</guid>
       <description>Iron Man
 Descripcion Altura 6 feet, 1 inch Peso 225 pounds Debilidades   Ego  Heart Issues  Fortalezas   Intellect  Technopathy  Super Human Reflexes  Thor
 Descripcion Altura 6 feet, 6 inches Peso 640 pounds Debilidades   Short Tempered  Emotional  Fortalezas   God of Thunder  Invulnerability  Captain America

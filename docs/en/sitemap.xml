@@ -3,100 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://z-progandroid.github.io/Hugo_Site/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/post/data/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/data/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/post/data/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/post/data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/post/data/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/data/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://z-progandroid.github.io/Hugo_Site/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/post/comunicacionweb/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/comunicacionweb/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/post/comunicacionweb/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/post/comunicacionweb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/post/comunicacionweb/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/comunicacionweb/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/post/definiciones/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/definiciones/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/post/definiciones/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/post/definiciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/post/definiciones/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/definiciones/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/post/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/post/"
+                href="https://z-progandroid.github.io/Hugo_Site/post/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://z-progandroid.github.io/Hugo_Site/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://z-progandroid.github.io/Hugo_Site/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://z-progandroid.github.io/Hugo_Site/tags/"
                 />
   </url>
   
