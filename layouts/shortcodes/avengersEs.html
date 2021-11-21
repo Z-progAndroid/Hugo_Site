@@ -1,0 +1,22 @@
+
+{{range .Site.Data.info}}
+    <h1>{{.name}}</h1>><br>    
+    <img src="{{.img}}" width="25" height="25"/>
+    <h2>Descripcion</h2> 
+    <h3>Altura {{.height}}</h3> 
+    <h3>Peso {{.weight}}</h3> 
+    <h2>Debilidades</h2> 
+        <ul>
+            {{range .weaknesses}}
+                <h4> <li>{{.}}</li></h4> 
+            {{end}}
+        </ul>
+    <h2>Fortalezas</h2>
+        <ul>
+            {{range .strength}}
+                <h4>  <li>{{.}}</li></h4> 
+            {{end}}
+        </ul>
+
+{{end}}
+
