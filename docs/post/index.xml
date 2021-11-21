@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avengers Data</title>
+      <link>http://example.org/post/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/data/</guid>
+      <description>Iron Man
+Descripcion Altura 6 feet, 1 inch Peso 225 pounds Weaknesses   Ego  Heart Issues  Strength   Intellect  Technopathy  Super Human Reflexes  Thor
+Descripcion Altura 6 feet, 6 inches Peso 640 pounds Weaknesses   Short Tempered  Emotional  Strength   God of Thunder  Invulnerability  Captain America
+Descripcion Altura 6 feet, 2 inches Peso 220 pounds Weaknesses   His Past  Emotions  Strength   Reflexes  Slowed Ageing  Super Healing  Hulk</description>
+    </item>
+    
+    <item>
+      <title>COMMUNICATION CLIENT SERVER</title>
+      <link>http://example.org/post/comunicacionweb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/comunicacionweb/</guid>
+      <description>PARTIES INVOLVED Server Side  Server-side programming is a processing of a user&amp;rsquo;s request by interpreting a script on the web server to dynamically generate HTML pages as a response.
+  Client Side  Client-side programming is the way that web pages manage events, make requests to the server and make simple validations and it is integrated into the HTML code
+  Ajax Request  It is not a programming language but a tool to communicate the client side with the server side.</description>
+    </item>
+    
+    <item>
+      <title>Definiciones</title>
+      <link>http://example.org/post/definiciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/definiciones/</guid>
+      <description>Babel WebPack Prototype Polyfill    Prototype is a framework written in JavaScript that is oriented to the simple and dynamic development of web applications.
+webpack is an open source JavaScript module package, used to generate static files representing those modules
+Babel and Polyfill are tools that help to modernize our code
+ PHP Frameworks from php    PHP is a programming language designed to develop applications for the web and create web pages, favoring the connection between servers and the user interface.</description>
+    </item>
+    
+  </channel>
+</rss>

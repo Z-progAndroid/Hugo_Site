@@ -1,0 +1,50 @@
+[
+{
+	"uri": "http://example.org/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Welcome To My Page I\u0026rsquo;am a web developer Learn something new ,visit my posts "
+},
+{
+	"uri": "http://example.org/post/data/",
+	"title": "Avengers Data",
+	"tags": [],
+	"description": "",
+	"content": " Iron Man\nDescripcion Altura 6 feet, 1 inch Peso 225 pounds Weaknesses   Ego  Heart Issues  Strength   Intellect  Technopathy  Super Human Reflexes  Thor\nDescripcion Altura 6 feet, 6 inches Peso 640 pounds Weaknesses   Short Tempered  Emotional  Strength   God of Thunder  Invulnerability  Captain America\nDescripcion Altura 6 feet, 2 inches Peso 220 pounds Weaknesses   His Past  Emotions  Strength   Reflexes  Slowed Ageing  Super Healing  Hulk\nDescripcion Altura 7 to 8 feet Peso 1,400 pounds Weaknesses   Magic  Vibranium  Gas  Battling Banner  Strength   Incredible superhuman strength  Fire Resistance  Black Widow\nDescripcion Altura 5 feet, 7 inches Peso 131 pounds Weaknesses   Guilt  Ego  Infertility  Cats  Strength   Durability  Super Reflexes  Hawkeye\nDescripcion Altura 6 feet, 3 inches Peso 230 pounds Weaknesses   Relations  Strength   Master Archer  Peak Human Sight  Expert Acrobat  Captain Marvel\nDescripcion Altura 5 feet 11 inches Peso 165 lbs Weaknesses   Split Personality  Brainwashing  Strength   Superhuman strength  Energy Absorption \u0026amp; Manipulation  Jane Foster\nDescripcion Altura 5 feet 7 inches Peso 135 lbs Weaknesses   Relations  Strength   Mighty Thor  Super Human Strength  Black Panther\nDescripcion Altura 6 feet Peso 200 lbs Weaknesses   Arrogance  Magic  Daddy Issues  Strength   Knowledge  Endurance  Electrocution  Spider Man\nDescripcion Altura 5 feet 10 inches Peso 167 lbs Weaknesses   Ethyl Chloride pesticide  Common Cold  Strength   Super Strength  Night Vision  Spidey Sense  Doctor Strange\nDescripcion Altura 6 feet 2 inches Peso 180 lbs Weaknesses   Ego  Arrogance  Strength   Summoning Objects  Teleportation  Access To Dimensions  Ant Man\nDescripcion Altura Planck length to 65 feet Peso 86 kg Weaknesses   Different size can cause stress to his body and mind  Strength   Change Size At Will  Bio-Energy Projection  War Machine\nDescripcion Altura 6 feet 1 inch Peso 240 lbs Weaknesses   Slow Speed  Relations  Strength   Superhuman Strength  Project Energy Blasts  Falcon\nDescripcion Altura 6 feet 2 inches Peso 240 lbs Weaknesses   His Past  Strength   Flight  Telepathy with birds  Vision\nDescripcion Altura 6 feet 3 inches Peso 300 lbs Weaknesses   Emotions  Telepathy  Strength   Superhuman Analytical Capabilities  Flight  Scarlet Witch\nDescripcion Altura 5 feet 7 inches Peso 130 lbs Weaknesses   Lack of Confidence  Strength   Born With Cosmic Powers  Skilled Tactician  Thanos\nDescripcion Altura 6 feet 7 inches Peso 985 lbs Weaknesses   Not an Avenger  Strength   Telekinesis  Can manipulate matter  Winter Soldier\nDescripcion Altura 5 feet 9 inches Peso 260 lbs Weaknesses   Limited By Technology  Can be Controlled  Strength   Superhuman Strength  Agility  Arm Disguise  Loki\nDescripcion Altura 6 feet, 4 inches Peso 525 pounds Weaknesses   Propensity to Overthink and Doubt  Strength   God of Mischief  Master of Manipulation and Deceit  Star Lord\nDescripcion Altura 6 feet 2 inches Peso 175 lbs Weaknesses   Never grew up  Strength   Strength Augmentation  Skilled Marksman  Gamora\nDescripcion Altura 6 feet Peso 170 lbs Weaknesses   Emotions  Strength   Elite Combatant  Accelerated Healing Factor  Drax\nDescripcion Altura 8 feet Peso 1050 lbs Weaknesses   Hate  Strength   Projects Concussive Blasts of Cosmic Energy  Rocket Raccoon\nDescripcion Altura 4 feet Peso 55 lbs Weaknesses   Stealing Stuff  Strength   Brilliant Engineer and Technician  Starship Pilot  Groot\nDescripcion Altura 23 feet max. Peso 8000 pounds max. Weaknesses   Termites  Strength   Ability to Regenerate  Resistant to Fire  Mantis\nDescripcion Altura 5 feet 6 inches Peso 115 lbs Weaknesses   Physically Diminutive  Strength   Controls mind  Read and Alter Emotions  Nebula\nDescripcion Altura 6 feet 1 inch Peso 185 lbs Weaknesses   Ego  Strength   Athletic  Excellent Combatant  Heimdall\nDescripcion Altura 7 feet 2 inches Peso 525 lbs Weaknesses   Magic  Strength   Superhuman Strength  Agility  Shuri\nDescripcion Altura 5 feet 7 inches Peso 127 lbs Weaknesses   Ego  Strength   Genius Technician  Agility  Okoye\nDescripcion Altura 6 feet Peso 128 lbs Weaknesses   Love  Strength   Master Martial Artist  Combatant  Pepper Potts\nDescripcion Altura 5 feet 4 inches Peso 110 lbs Weaknesses   None  Strength   Energy Projection Flight  Wong\nDescripcion Altura 5 feet 8 inches Peso 140 lbs Weaknesses   None  Strength   Mastery of Magic  Genius level Intellect  Baby Groot\nDescripcion Altura 10 inches Peso 70 grams Weaknesses   Termites  Strength   Ability to Regenerate  Resistant to Fire  Teenage Groot\nDescripcion Altura 5 feet 4 inches Peso 142 lbs Weaknesses   Termites  Strength   Ability to Regenerate  Resistant to Fire  Quicksilver\nDescripcion Altura 6 feet Peso 175 lbs Weaknesses   His Past  Strength   Superhuman Speed  Agility  "
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/post/comunicacionweb/",
+	"title": "COMMUNICATION CLIENT SERVER",
+	"tags": [],
+	"description": "",
+	"content": "PARTIES INVOLVED Server Side  Server-side programming is a processing of a user\u0026rsquo;s request by interpreting a script on the web server to dynamically generate HTML pages as a response.\n  Client Side  Client-side programming is the way that web pages manage events, make requests to the server and make simple validations and it is integrated into the HTML code\n  Ajax Request  It is not a programming language but a tool to communicate the client side with the server side.\nAllows you to make requests to your server, without having to reload the page.\nthe client side, using AJAX, invokes a server-side script made to perform such a query.\nAnd the client side keeps responding to events until the request information arrives.\n  HTML  HTML is the foundation of the web. If you want to build a page using the html tags, the body of the web page is created and then using the language on the client and server sides you fill in that structure\n Summary of the charging process GRAPHIC ! GRAPHIC\n   The request is sent to the server. He receives it and begins the process of building the web page. If there is PHP code, it is executed at this moment, all the queries are made to the Database. The result is a page with HTML and maybe JavaScript.\n  Your browser receives the page, interprets it, and uses the HTML to build it. You have it on screen.\n  As you interact with the page, everything is processed by Javascript. They will interact with you by responding to your events, until you close the page.\n  If you need a query to the DB, in order not to load another page, you can use AJAX technology that allows JavaScript to send requests to PHP scripts. Javascript receives text strings as a response, and based on the response it can draw new GUI elements or change them. You have an interactive page.\n   "
+},
+{
+	"uri": "http://example.org/post/definiciones/",
+	"title": "Definiciones",
+	"tags": [],
+	"description": "",
+	"content": "Babel WebPack Prototype Polyfill    Prototype is a framework written in JavaScript that is oriented to the simple and dynamic development of web applications.\nwebpack is an open source JavaScript module package, used to generate static files representing those modules\nBabel and Polyfill are tools that help to modernize our code\n PHP Frameworks from php    PHP is a programming language designed to develop applications for the web and create web pages, favoring the connection between servers and the user interface. frameworks refer to file libraries that include various basic functions and their objective is to give you a base that you can use to develop projects more efficiently in a specific language.\n PHP framework examples 1.Laravel 2.Symfony 3.CodeIgniter 4.Zend Framework / Laminas Project 5.Yii (Framework) 6.CakePHP 7.Slim 8.Phalcon 9.FuelPHP 10.Fat-Free Framework  DJango JSP Css Bootstrap  Django and jsp technologies that are used as the basis for your web application, Django is based on pyrhon and jsp in java also css and bootstrap are technologies to apply style to your web page\nDJango JSP Css Bootstrap  Vue React Angular JavaScript TypeScript JQuery    Vue, React and Angular are javascript frameworks used as a spa to display the information of our web application and JavaScript TypeScript JQuery are client-side languages ​​that are used to enforce small validations on the client side and send requests to the server.\nVUE React Angular JavaScript TypeScript JQuery  Gatsby Hugo Jekyll Pelican Scraping heroku  Gatsby Hugo Jekyll heroku are technologies that help us create static sites with great ease and Scraping is a technique to collect information from other web pages\nGatsby Hugo Jekyll heroku  Vuespress  is a static site generator composed of two parts: a minimalist static site generator with a customizable theme system with Vue and a default theme optimized for writing technical documentation.\nVuespress  SpringBoot  Java Spring Boot is one of the main backend web development tools with Java, mainly based on the mvc paradigm (model-vist-controller) and on web services (REST and SOAP) and microservices.\nSpringBoot  wmuSlider  wmuSlider is a swiping jQuery plugin that works with responsive web designs.\n "
+},
+{
+	"uri": "http://example.org/post/",
+	"title": "posts",
+	"tags": [],
+	"description": "",
+	"content": "postpone the deadline Come on, it\u0026rsquo;s time to learn something new. "
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

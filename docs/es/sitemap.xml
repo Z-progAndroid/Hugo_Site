@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/post/comunicacionweb/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/comunicacionweb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/post/comunicacionweb/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/post/definiciones/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/definiciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/post/definiciones/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/post/data/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/post/data/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/"
+                />
+  </url>
+  
+</urlset>
