@@ -7,7 +7,7 @@
 > instalacion del tema learn
 ## Contenido
 
-> se pude encoentr en el apartado de posts
+> se pude encoentrar en el apartado de posts
 ## Shortcode
 > se pude encoentrar en el apartado de posts 
 ## Personalizar la plantilla
