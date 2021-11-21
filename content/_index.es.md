@@ -1,6 +1,6 @@
 ---
 title: ""
-url: 
+url: /es/
 ---
 # Bienvenido a mi pagina
 
