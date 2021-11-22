@@ -11,8 +11,7 @@ theme = "hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-# English is the default language
-defaultContentLanguage = "en"
+
 # Force to have /en/my-page and /fr/my-page routes, even for default language.
 defaultContentLanguageInSubdir= true
 
@@ -21,8 +20,12 @@ defaultContentLanguageInSubdir= true
 title = "My New Hugo Site"
 weight = 1
 languageName = "English"
+landingPageURL = "/Hugo_Site/"
+landingPageName = "<i class='fas fa-home'></i> Home"
 
 [Languages.es]
 title = "My New Hugo Site es"
 weight = 2
 languageName = "Español"
+landingPageURL = "/Hugo_Site/"
+landingPageName = "<i class='fas fa-home'></i> Home"
