@@ -14,6 +14,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 # Force to have /en/my-page and /fr/my-page routes, even for default language.
 defaultContentLanguageInSubdir= true
+defaultContentLanguage = "en"
 
 [Languages]
 [Languages.en]
@@ -21,11 +22,13 @@ title = "My New Hugo Site"
 weight = 1
 languageName = "English"
 landingPageURL = "/Hugo_Site/"
+contentDir = 'content/english'
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [Languages.es]
 title = "My New Hugo Site es"
 weight = 2
+contentDir = 'content/spanish'
 languageName = "Español"
 landingPageURL = "/Hugo_Site/"
 landingPageName = "<i class='fas fa-home'></i> Home"
